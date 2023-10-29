@@ -4,6 +4,7 @@ body{
 }
 .list{
 	background-color:white;
+	padding:5px;
 	width:90vw;
 	padding-top:10px;
 	padding-bottom:10px;
@@ -40,4 +41,13 @@ p{
 audio{
 	text-align:left;
 	width:60vw;
+.player_one{
+	background-color:white;
+	padding:5px;
+	border-radius:5px;
+}
+.player_two{
+	background-color:white;
+	padding:5px;
+	border-radius:5px;
 }
